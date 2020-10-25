@@ -1,0 +1,61 @@
+body {
+    background: rgb(238, 234, 234);
+}
+
+div {
+    font-family: fantasy;
+}
+
+.hiddenbox {
+    border: hidden;
+    width: 50%;
+    height: 150px;
+
+}
+
+#header {
+    border: 5px solid;
+    border-style: solid;
+    background-color: cyan;
+    position: fixed;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    margin-bottom: 50px;
+}
+
+#homename {
+    color: #000000;
+    text-align: center;
+    float: 0px;
+}
+ 
+
+#footer {
+    border: 5px solid;
+    background-color: cyan;
+    position: absolute;
+    right: 0px;
+    left: 0px;
+    margin-bottom: 0px;
+    top: 1000px;
+}
+
+#titleimg {
+    box-sizing: border-box;
+    text-align: right;
+    margin-right: 300px;
+}
+.column {
+    
+    text-align: center;
+}
+
+#contactAbout {
+    margin-bottom: 25px;
+}
+
+.contabout {
+    text-decoration: wavy;
+    color: #000;
+}
